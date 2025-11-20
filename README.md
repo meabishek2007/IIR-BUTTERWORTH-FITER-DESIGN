@@ -119,6 +119,6 @@ title(' Frequency Response of Butterworth IIR HPF');
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99f9131c-1f2e-4f00-a975-45f9ecbc3bd5" />
 
 
-
 ## RESULT: 
+
 The design of IIR Butterworth filter (LPF & HPF) using SCILAB was successfully executed.
